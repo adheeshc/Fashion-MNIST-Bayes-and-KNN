@@ -1,8 +1,8 @@
 Sister repo https://github.com/adheeshc/Fashion-MNIST-SVM-and-DL
 
-=================================
-FILE DESCRIPTIONS
-=================================
+
+## FILE DESCRIPTIONS
+
 
 I) CODE FOLDER
 

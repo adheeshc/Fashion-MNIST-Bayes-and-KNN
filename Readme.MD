@@ -61,9 +61,9 @@ III) FASHION_MNIST FOLDER - Downloaded directly from Fashion-mnist Dataset page 
 IV) REPORT FOLDER - contains Report.pdf which is the report file  (1 File)
 
 
-=================================
-Libraries Used
-=================================
+
+## Libraries Used
+
 
 1) Numpy
 2) matplotlib 
@@ -73,9 +73,9 @@ Libraries Used
 6) math
 7) time
 
-=================================
-RUN INSTRUCTION
-=================================
+
+## RUN INSTRUCTION
+
 
 1) Make sure directory structure is maintained 
 2) Make sure all the libraries are installed
